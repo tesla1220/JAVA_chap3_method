@@ -14,9 +14,14 @@ public class Review {
     public static int peri (int height, int width ){
         return (height*2)+(width*2);
 
-//        Review rev = new Review();
+//        Review rev = new Review(); {
 
-        System.out.println("동전의 최소 갯수 : " + rev );
+
+
+
+
+
+
 
 
 
