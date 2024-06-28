@@ -23,7 +23,7 @@ public class Application04 {
 
 
 
-
+    // 이 코드에서 name, age, gender를 필드로 선언하지 않았더라도, testMethod의 매개변수로 선언했기 때문에 출력이 가능합니다. 
     public void testMethod(String name, int age, final char gender) {
 
         System.out.println("나의 이름은 " + name+ "이고, 나이는 " + age + "세이며, 성별은 " + gender + "입니다.");
